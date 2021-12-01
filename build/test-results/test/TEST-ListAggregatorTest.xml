@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ListAggregatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-12-01T21:38:40" hostname="DESKTOP-JV0I9G3" time="0.02">
+  <properties/>
+  <testcase name="soma" classname="ListAggregatorTest" time="0.008"/>
+  <testcase name="max" classname="ListAggregatorTest" time="0.002"/>
+  <testcase name="min" classname="ListAggregatorTest" time="0.002"/>
+  <testcase name="distinct" classname="ListAggregatorTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
